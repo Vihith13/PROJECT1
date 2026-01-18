@@ -1,2 +1,6 @@
 This is main branch commit
+<<<<<<< HEAD
 This is main branch commit 1
+=======
+This is also main branch commit
+>>>>>>> 6f9fb2b (Commit1)
